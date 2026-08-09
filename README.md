@@ -36,4 +36,4 @@ Soy **Alex Roblero**, estudiante de Ingeniería en Sistemas en la **Universidad 
 | [**App Bases de Datos**](https://github.com/AlexJRQ32/Proyecto-Programado-Aplicacion-de-Bases-de-Datos) | Modelo ER, Data Warehouse y ETL de análisis | SQL Server |
 
 ### GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexJRQ32&theme=dark)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![AlexJRQ32's GitHub stats](https://github-stats-extended.vercel.app/api?username=AlexJRQ32&theme=dark)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexJRQ32&theme=dark)](https://git.io/streak-stats)  [![AlexJRQ32's GitHub stats](https://github-stats-extended.vercel.app/api?username=AlexJRQ32&theme=dark)](https://github.com/stats-organization/github-stats-extended)
