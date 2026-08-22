@@ -57,7 +57,7 @@ Soy estudiante de <b>Ingeniería en Sistemas</b> en la <b>Universidad Hispanoame
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexJRQ32&theme=dark&hide_border=true" alt="GitHub Streak" />&nbsp;&nbsp;
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexJRQ32&theme=dark&hide_border=true" alt="GitHub Streak" />&nbsp;&nbsp; -->
   <img src="https://github-stats-extended.vercel.app/api?username=AlexJRQ32&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
