@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola! Soy Alex Roblero</h1>
-<h3 align="center">💻 Desarrollador Frontend & Full-stack · Costa Rica 🇨🇷</h3>
+<h3 align="center">💻 Desarrollador Full-stack · Costa Rica 🇨🇷</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&height=50&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Frontend+developer+y+dise%C3%B1o+de+interfaces;Construyo+aplicaciones+web+completas;Aprendizaje+constante+%F0%9F%9A%80" alt="Typing SVG" />
