@@ -70,16 +70,6 @@ Frontend developer based in Costa Rica, building under the brand <b><a href="htt
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🗺️ MapRouter</h3>
-      <p align="center">Bus route explorer powered by Supabase PostGIS spatial queries and MapLibre GL JS.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PostGIS-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-        <img src="https://img.shields.io/badge/MapLibre_GL_JS-0d1117?style=for-the-badge&logo=maplibre&logoColor=6AA1DB" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3 align="center">🐾 OpenPaw</h3>
       <p align="center">Veterinary services and pet care platform (Scrum team).</p>
       <p align="center">
@@ -90,6 +80,8 @@ Frontend developer based in Costa Rica, building under the brand <b><a href="htt
         <a href="https://dev.azure.com/DesarrolloAplicacionesScrumTeam/OpenPaw%20Devs/_git/OpenPaw%20Devs">🔗 View repository (Azure DevOps)</a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🧾 FlowBank</h3>
       <p align="center">Invoice scanning with OCR and financial management.</p>
@@ -98,8 +90,6 @@ Frontend developer based in Costa Rica, building under the brand <b><a href="htt
         <img src="https://img.shields.io/badge/Full--stack-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">🏝️ Islavic Landing</h3>
       <p align="center">Landing page for Islavic.</p>
@@ -108,15 +98,10 @@ Frontend developer based in Costa Rica, building under the brand <b><a href="htt
         <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🚀 In progress</h3>
-      <p align="center">Shipping new full-stack apps while learning.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Stay_tuned-0d1117?style=for-the-badge&logo=rocket&logoColor=FFFFFF" />
-      </p>
-    </td>
   </tr>
 </table>
+
+**Planned ideas** (not started yet): MapRouter — bus route explorer with Supabase PostGIS + MapLibre GL JS.
 
 ---
 
