@@ -68,6 +68,9 @@ Frontend developer based in Costa Rica, building under the brand <b><a href="htt
         <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
         <img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
       </p>
+      <p align="center">
+        <a href="https://github.com/AlexJRQ32/OpenFinances">🔗 Repository</a> · <a href="https://openfinances.vercel.app">🌐 Live</a>
+      </p>
     </td>
     <td width="50%">
       <h3 align="center">🐾 OpenPaw</h3>
@@ -77,7 +80,7 @@ Frontend developer based in Costa Rica, building under the brand <b><a href="htt
         <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
       </p>
       <p align="center">
-        <a href="https://dev.azure.com/DesarrolloAplicacionesScrumTeam/OpenPaw%20Devs/_git/OpenPaw%20Devs">🔗 View repository (Azure DevOps)</a>
+        <a href="https://github.com/AlexJRQ32/OpenPaw">🔗 Repository</a> · <a href="https://openpaw-devs.vercel.app">🌐 Live</a>
       </p>
     </td>
   </tr>
@@ -89,13 +92,19 @@ Frontend developer based in Costa Rica, building under the brand <b><a href="htt
         <img src="https://img.shields.io/badge/OCR-0d1117?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Full--stack-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
       </p>
+      <p align="center">
+        <a href="https://github.com/AlexJRQ32/FlowBank">🔗 Repository</a> · <a href="https://flowbank-three.vercel.app">🌐 Live</a>
+      </p>
     </td>
     <td width="50%">
       <h3 align="center">🏝️ Islavic Landing</h3>
       <p align="center">Landing page for Islavic.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+        <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/AlexJRQ32/Islavic-Luxury-Finds">🔗 Repository</a>
       </p>
     </td>
   </tr>
