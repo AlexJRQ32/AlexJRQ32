@@ -1,5 +1,5 @@
-<h1 align="center">robledev ????</h1>
-<h3 align="center">?? Frontend Developer � Costa Rica</h3>
+<h1 align="center">robledev 🇨🇷</h1>
+<h3 align="center">💻 Frontend Developer · Costa Rica</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&height=50&lines=Frontend+developer+and+interface+design;Full-stack+web+applications;AI-driven+development;Learning+by+building+%F0%9F%9A%80" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 
 ---
 
-## ????? About me
+## 🧑‍💻 About me
 
 <p align="justify">
 Frontend developer based in Costa Rica, building under the brand <b><a href="https://robledev.vercel.app">robledev</a></b>. I like owning the full lifecycle of an application: from the data model to deployment. I ship real products while I learn.
@@ -20,32 +20,32 @@ Frontend developer based in Costa Rica, building under the brand <b><a href="htt
 
 <table>
   <tr>
-    <td>??</td>
+    <td>🎯</td>
     <td>Focused on <b>responsive web apps</b> that work great on web and mobile.</td>
   </tr>
   <tr>
-    <td>??</td>
+    <td>🤖</td>
     <td>AI-driven development: I use an orchestrator + subagents workflow to ship faster without giving up quality.</td>
   </tr>
   <tr>
-    <td>??</td>
+    <td>📚</td>
     <td>Self-taught: building real projects is how I learn new stacks.</td>
   </tr>
 </table>
 
 ---
 
-## ??? Tech stack
+## 🛠️ Tech stack
 
 | Area | Technologies |
 |------|-------------|
 | **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF) ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4) |
 | **Backend & DB** | ![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0d1117?style=for-the-badge&logo=dotnet&logoColor=512BD4) |
-| **Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=data:image/svg%3Bbase64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VmlzdWFsIFN0dWRpbyBDb2RlPC90aXRsZT48cGF0aCBkPSJNMjMuMTUgMi41ODdMMTguMjEuMjFhMS40OTQgMS40OTQgMCAwIDAtMS43MDUuMjlsLTkuNDYgOC42My00LjEyLTMuMTI4YS45OTkuOTk5IDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YS45OTkuOTk5IDAgMCAwIDEuMjc2LjA1N2w0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDIwLjA2VjMuOTM5YTEuNSAxLjUgMCAwIDAtLjg1LTEuMzUyem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6Ii8+PC9zdmc+&logoColor=007ACC) ![OpenCode](https://img.shields.io/badge/OpenCode-0d1117?style=flat-square&logo=opencode&logoColor=FFFFFF) ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032) |
+| **Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square) ![OpenCode](https://img.shields.io/badge/OpenCode-0d1117?style=flat-square&logo=opencode&logoColor=FFFFFF) ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032) |
 
 ---
 
-## ?? GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=AlexJRQ32&theme=dark&hide_border=true" alt="GitHub Stats" />
@@ -57,54 +57,54 @@ Frontend developer based in Costa Rica, building under the brand <b><a href="htt
 
 ---
 
-## ?? Featured projects
+## 📌 Featured projects
 
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center">?? OpenFinances</h3>
+      <h3 align="center">🏦 OpenFinances</h3>
       <p align="center">Personal finance app, full-stack. Integrated BCCR exchange rates (Costa Rican Central Bank).</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
         <img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
       </p>
       <p align="center">
-        <a href="https://github.com/AlexJRQ32/OpenFinances">?? Repository</a> � <a href="https://openfinances.vercel.app">?? Live</a>
+        <a href="https://github.com/AlexJRQ32/OpenFinances">🔗 Repository</a> � <a href="https://openfinances.vercel.app">🌐 Live</a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">?? OpenPaw</h3>
+      <h3 align="center">🐾 OpenPaw</h3>
       <p align="center">Veterinary services and pet care platform (Scrum team).</p>
       <p align="center">
         <img src="https://img.shields.io/badge/ASP.NET_Core-0d1117?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
         <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
       </p>
       <p align="center">
-        <a href="https://github.com/AlexJRQ32/OpenPaw">?? Repository</a> � <a href="https://openpaw-devs.vercel.app">?? Live</a>
+        <a href="https://github.com/AlexJRQ32/OpenPaw">🔗 Repository</a> � <a href="https://openpaw-devs.vercel.app">🌐 Live</a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">?? FlowBank</h3>
+      <h3 align="center">🧾 FlowBank</h3>
       <p align="center">Invoice scanning with OCR and financial management.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/OCR-0d1117?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Full--stack-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
       </p>
       <p align="center">
-        <a href="https://github.com/AlexJRQ32/FlowBank">?? Repository</a> � <a href="https://flowbank-phi.vercel.app">?? Live</a>
+        <a href="https://github.com/AlexJRQ32/FlowBank">🔗 Repository</a> � <a href="https://flowbank-phi.vercel.app">🌐 Live</a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">??? Islavic Landing</h3>
+      <h3 align="center">🏝️ Islavic Landing</h3>
       <p align="center">Landing page for Islavic.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF" />
       </p>
       <p align="center">
-        <a href="https://github.com/AlexJRQ32/Islavic-Luxury-Finds">?? Repository</a> � <a href="https://islavic-luxury-finds.vercel.app">?? Live</a>
+        <a href="https://github.com/AlexJRQ32/Islavic-Luxury-Finds">🔗 Repository</a> � <a href="https://islavic-luxury-finds.vercel.app">🌐 Live</a>
       </p>
     </td>
   </tr>
@@ -114,7 +114,7 @@ Frontend developer based in Costa Rica, building under the brand <b><a href="htt
 
 ---
 
-## ?? Connect
+## 🤝 Connect
 
 <p align="center">
   <a href="https://robledev.vercel.app">
