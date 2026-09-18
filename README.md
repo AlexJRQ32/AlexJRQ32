@@ -15,7 +15,7 @@
 ## 🧑‍💻 About me
 
 <p align="justify">
-Frontend developer based in Costa Rica, building under the brand <b><a href="https://robledev.vercel.app">robledev</a></b>. I like owning the full lifecycle of an application — from the data model to deployment — and I ship real products while I learn.
+Frontend developer based in Costa Rica, building under the brand <b><a href="https://robledev.vercel.app">robledev</a></b>. I like owning the full lifecycle of an application: from the data model to deployment. I ship real products while I learn.
 </p>
 
 <table>
@@ -41,7 +41,7 @@ Frontend developer based in Costa Rica, building under the brand <b><a href="htt
 |------|-------------|
 | **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF) ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4) |
 | **Backend & DB** | ![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0d1117?style=for-the-badge&logo=dotnet&logoColor=512BD4) |
-| **Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC) ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032) |
+| **Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC) ![OpenCode](https://img.shields.io/badge/OpenCode-0d1117?style=for-the-badge) ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032) |
 
 ---
 
@@ -93,7 +93,7 @@ Frontend developer based in Costa Rica, building under the brand <b><a href="htt
         <img src="https://img.shields.io/badge/Full--stack-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
       </p>
       <p align="center">
-        <a href="https://github.com/AlexJRQ32/FlowBank">🔗 Repository</a> · <a href="https://flowbank-three.vercel.app">🌐 Live</a>
+        <a href="https://github.com/AlexJRQ32/FlowBank">🔗 Repository</a> · <a href="https://flowbank-phi.vercel.app">🌐 Live</a>
       </p>
     </td>
     <td width="50%">
@@ -104,13 +104,13 @@ Frontend developer based in Costa Rica, building under the brand <b><a href="htt
         <img src="https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF" />
       </p>
       <p align="center">
-        <a href="https://github.com/AlexJRQ32/Islavic-Luxury-Finds">🔗 Repository</a>
+        <a href="https://github.com/AlexJRQ32/Islavic-Luxury-Finds">🔗 Repository</a> · <a href="https://islavic-luxury-finds.vercel.app">🌐 Live</a>
       </p>
     </td>
   </tr>
 </table>
 
-**Planned ideas** (not started yet): MapRouter — bus route explorer with Supabase PostGIS + MapLibre GL JS.
+**Planned ideas** (not started yet): MapRouter, a bus route explorer built with Supabase PostGIS and MapLibre GL JS.
 
 ---
 
